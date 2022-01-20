@@ -83,3 +83,12 @@ Cryptocurrency Jobs 在使用区块链技术的领先公司和初创公司中策
 适用于雄心勃勃的 Web3 团队	
 
 
+
+### Gaby 的 Web3 Job 面板
+
+
+- [https://web-3.pallet.xyz/jobs](https://web-3.pallet.xyz/jobs)
+
+来自 web3 中最令人兴奋的公司的绝佳工作机会。
+
+
