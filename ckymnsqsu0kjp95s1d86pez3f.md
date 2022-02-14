@@ -1,4 +1,4 @@
-## Tribute DAO框架教程 - 打造DAO治理平台
+## Tribute DAO框架 - 打造DAO治理平台
 
 ## TributeDAO 框架是什么？ 解决了什么问题？ 
 
