@@ -8,7 +8,7 @@
 通过 Swap 让精确数量的输入TokenA, 获得尽可能多的输出TokenB. 
 
 ```
-// SPDX-License-Identifier: MIT
+ // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
 
@@ -31,6 +31,8 @@ contract ACswap {
         uint _amountOutMin,
         address _to
     ) external {
+        
+        IERC20(_tokenIn).approve(address(this), _amountIn);
 
         // 1. 将 Token A 转入 此合约
         IERC20(_tokenIn).transferFrom(msg.sender, address(this), _amountIn);
@@ -100,11 +102,12 @@ interface IERC20 {
     ) external returns (bool);
 }
 
+
 ```
 
 ## 测试网部署 
 
-**合约地址: **    https://rinkeby.etherscan.io/address/0xc8b8121e4436a5ca45a0ecd05272aea1dd8d384d#writeContract 
+**合约地址: **    https://rinkeby.etherscan.io/address/0x390bb6D696c587416B7b58B7D7d947E2694e11b5#code 
 
 **测试用例:   **
 
