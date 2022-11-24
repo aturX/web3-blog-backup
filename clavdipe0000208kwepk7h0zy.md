@@ -1,5 +1,10 @@
 # BitKeep 钱包:  掌管你的私钥,掌管你的加密资产
 
+- BitKeep官网下载： [https://bitkeep.com](https://share.bkb.life/inviteLink?code=w1I0C4)
+- BitKeep官方推特:    [@BitKeepOS](https://twitter.com/BitKeepOS)
+
+--- 
+
 # 什么是钱包？
 
 如果你有一枚比特币（BTC），你会如何存储和保管？
