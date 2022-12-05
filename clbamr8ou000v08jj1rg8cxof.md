@@ -38,7 +38,7 @@ LayerZero 是一种多链互操作协议，用于跨不同链传递轻量级消�
 
 \- 现在你有投票权
 
-\- 对提案进行投票：
+\- 对提案进行投票： [https://snapshot.org/#/stgdao.eth](https://snapshot.org/#/stgdao.eth)
 
 * * *
 
