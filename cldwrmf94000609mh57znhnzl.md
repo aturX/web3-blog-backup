@@ -32,7 +32,7 @@ Telegram 上也有很多服务已经在使用 TON，例如捐赠、移动等，�
 
 **了解TON网络生态进展，如果想快速搭建TON bot，请联系**
 
-[**@ccdaoclub**](https://twitter.com/ccdaoclub)
+[**@ccdaoclub**](http://ccdao.club)
 
 ---
 
@@ -42,4 +42,4 @@ Telegram 上也有很多服务已经在使用 TON，例如捐赠、移动等，�
     
 * [**关注Twitter**](https://twitter.com/AntCaveClub)
     
-* **开发定制****:** https//ccdao.club
+* [**开发定制资讯**](http://ccdao.club)
