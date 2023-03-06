@@ -49,7 +49,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676820853612/4b4a0e9
     
 * 3-7天左右能到卡，顺丰到付, 具体咨询请私信。
     
-    (无护照办理联系: [**链求君**](https://t.me/AturX) 或 [**CCDAO团队**](https://t.me/madaodev))
+    (无护照办理联系: [**链求君**](https://t.me/AturX) 或 [**CCDAO团队**](https://t.me/AturX))
     
 
 # 日常使用需要哪些成本?
