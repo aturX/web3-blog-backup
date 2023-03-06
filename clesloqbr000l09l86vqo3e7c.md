@@ -3,7 +3,7 @@ title: "如何采用 Web3全栈解决方案 Fleek ?"
 datePublished: Fri Mar 03 2023 13:57:57 GMT+0000 (Coordinated Universal Time)
 cuid: clesloqbr000l09l86vqo3e7c
 slug: web3-fleek
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678110150946/6086fe7e-b7ff-45dd-a8d5-db121d860bcf.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678110235581/c51a418b-fdc8-4908-80fe-ddc8ba1cd779.png
 
 ---
 
