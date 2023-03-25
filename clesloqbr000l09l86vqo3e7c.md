@@ -87,6 +87,9 @@ Demo Github: [https://github.com/fleekxyz/fleek-demos-blog](https://github.com/f
 
 前置要求:
 
+* [服务器VPS推荐](https://www.vultr.com/?ref=9377909)
+    
+
 * Docker: [https://www.docker.com/](https://www.docker.com/) (脚本会帮忙安装)
     
 * Linux
