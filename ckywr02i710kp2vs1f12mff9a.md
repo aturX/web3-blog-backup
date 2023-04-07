@@ -1,46 +1,51 @@
-## 如何快速创建1000个以太坊钱包账户？
+---
+title: "如何快速创建1000个以太坊钱包账户？"
+seoTitle: "钱包创建 web3.py"
+datePublished: Thu Jan 27 2022 09:02:31 GMT+0000 (Coordinated Universal Time)
+cuid: ckywr02i710kp2vs1f12mff9a
+slug: 1000
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1643273674752/5CufcPRsz.png
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2CMvlqma-w"></iframe>
 
 ## 内容简介
 
 本篇文章完成内容如下：
 
--  通过Python 脚本创建1000个以太坊的钱包地址
--  创建相应的私钥和公钥
--  数据保存至CSV文件中
+* 通过Python 脚本创建1000个以太坊的钱包地址
+    
+* 创建相应的私钥和公钥
+    
+* 数据保存至CSV文件中
+    
 
 创建大量的账号可以用于批量的完成一些任务。
 
+脚本使用到的库是：
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273674752/5CufcPRsz.png align="left")
 
+## 1\. 导入依赖
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273913403/DNyqnLaty.png align="left")
 
-脚本使用到的库是： 
+## 2\. 创建钱包
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273941114/TS3Y3lwfp.png align="left")
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273674752/5CufcPRsz.png)
+## 3\. 保存数据
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273968373/l7AkyATjQi.png align="left")
 
+## 4\. 运行脚本
 
-## 1. 导入依赖 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273994040/sGVUDm-fp.png align="left")
 
+## 5\. 完整代码
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273913403/DNyqnLaty.png)
-
-## 2. 创建钱包 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273941114/TS3Y3lwfp.png)
-
-## 3. 保存数据 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273968373/l7AkyATjQi.png)
-
-## 4. 运行脚本 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643273994040/sGVUDm-fp.png)
-
-## 5. 完整代码
-
-```
+```plaintext
 from eth_account import Account
 from web3 import Web3
 import csv 
@@ -91,13 +96,8 @@ if __name__ == "__main__":
     # 保存至 csv 文件
     saveETHWallet(wallets)
     print("---- 完成 ----")
-
 ```
-
 
 ## 最终数据：
 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643274041293/oRqGnaVS1.png)
-
-
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1643274041293/oRqGnaVS1.png align="left")
