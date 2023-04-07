@@ -20,7 +20,7 @@ Myria总供应量为 500 亿个 MYRIA 代币，节点分配36%。
 
 # **空投指南**
 
-1. 访问[Myria项目](https://coinowo.com/24ad)的官网。
+1. 访问Myria项目的官网。
     
 2. 在从主网存入至少价值 2 美元的 Eth，并去市场购买最低价格的 Nft,持有NFT。
     
@@ -37,7 +37,7 @@ Myria总供应量为 500 亿个 MYRIA 代币，节点分配36%。
 
 [完成任务](https://coinowo.com/ln5a)获取免费积分，积分将可兑换NFT。
 
-打开网站: [https://myria.com/airdrop/](https://myria.com/airdrop/)
+打开网站: [https://myria.com/airdrop/](https://myria.com/airdrop/?referCode=543342)
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1680878673777/ce2fb106-927d-4679-a2db-2744cc865c8b.png align="center")
 
