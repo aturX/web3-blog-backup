@@ -1,0 +1,128 @@
+---
+title: "如何在批量生成1000个新的以太坊地址?"
+datePublished: Fri Apr 07 2023 14:30:34 GMT+0000 (Coordinated Universal Time)
+cuid: clg6n9htp000m0alef0qj5j4t
+slug: 1000-1
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2CMvlqma-w"></iframe>
+
+Python 是最通用的编程语言之一，具有丰富的用例；从客户端到后端，我们可以使用 Python 构建许多应用程序。在本指南中，我们将介绍使用Web3.py库在 Python 中批量创建以太坊地址。
+
+**先决条件**
+
+* 系统中安装了 Python（版本 3.6+）和 pip3。
+    
+* 一个文本编辑器。
+    
+
+## **什么是以太坊地址?**
+
+登录互联网上的任何平台时，您都需要用户名和密码的组合。将以太坊地址视为具有相应私钥作为密码的用户名。使用这种地址和私钥的组合可以让您与以太坊区块链进行交互。以太坊地址是您在区块链上的身份。看起来像这个“0xd5e099c71b797516c10ed0f0d895f429c2781142”，以太坊地址是公开的，可以共享，但私钥必须始终保密。以太坊地址是使用私钥生成的。以下是以太坊地址的生成过程：
+
+* 生成（64（十六进制）字符/256 位/32 字节）的随机私钥
+    
+
+```plaintext
+0xf4a2b939592564feb35ab10a8e04f6f2fe0943579fb3c9c33505298978b74893
+```
+
+* 生成（64（十六进制）字符/256 位/32 字节）的随机私钥
+    
+* 使用椭圆曲线数字签名算法 (ECDSA) 从私钥（128（十六进制）字符/512 位/64 字节）导出公钥
+    
+
+```plaintext
+0x04345f1a86ebf24a6dbeff80f6a2a574d46efaa3ad3988de94aa68b695f09db9ddca37439f99548da0a1fe4acf4721a945a599a5d789c18a06b20349e803fdbbe3
+```
+
+* 然后对（128个字符/64字节）公钥应用Keccak-256哈希函数，得到一个（64个字符/32字节）哈希字符串，前缀为0x的最后40个字符/20字节是以太坊地址。
+    
+
+```plaintext
+0xd5e099c71b797516c10ed0f0d895f429c2781142
+```
+
+以下是需要以太坊地址的几件事：
+
+* 接收/发送 ETH。
+    
+* 签署/发送交易。
+    
+* 连接到应用程序。
+    
+
+## **什么是 Python ?**
+
+[Python](https://www.python.org/)是一种通用的编程语言，应用范围很广。它具有高级数据结构。它是动态类型的。它具有动态绑定和更多功能，使其成为开发复杂应用程序的便捷工具，因为它用于连接不同组件的脚本或“胶水代码”。它还可以在几乎所有操作系统上进行系统调用。Python 是一种通用语言，因为它能够在几乎所有系统架构上运行并且无所不在。Python 是一种解释型、交互式、面向对象的编程语言。
+
+## **什么是 Web3Py ?**
+
+[Web3.py](http://Web3.py) 是一个 Python 库，可帮助您与以太坊区块链进行交互；使用 web3Py，人们可以为他们的去中心化应用程序 (dApps) 创建后端客户端来处理与区块链的交互、从中读取数据、编写交易或执行智能合约逻辑。原始 API 源自 Web3.js JavaScript API，但随着时间的推移进行了改进，以更好地服务和满足 Python 开发人员的需求。
+
+由于我们在这里使用 Python，因此我们将使用 [Web3.py](http://Web3.py)。
+
+现在，让我们看看如何在 Python 中生成一个新的以太坊地址。
+
+## **在**[**Python**](https://www.quicknode.com/guides/ethereum-development/wallets/how-to-generate-a-new-ethereum-address-in-python/#generating-an-ethereum-address-in-python)
+
+我们的第一步是检查您的系统上是否安装了 Python 3.6 或更高版本；您可以通过在终端/cmd 中键入以下内容来检查是否安装了 Python：
+
+```plaintext
+$ python --version
+```
+
+如果没有安装，可以按照[Python官网下载页面的说明进行。](https://wiki.python.org/moin/BeginnersGuide/Download)
+
+我们将使用[Web3Py](https://github.com/ethereum/web3.py)，这是一个用于与以太坊交互的 Python 库。我们将使用 PIP 安装 Web3Py，在您的终端/cmd 中键入以下内容：
+
+```plaintext
+$ pip install web3
+```
+
+> **注意：** Python 和其他库版本会导致常见的安装问题。因此，如果遇到任何问题，请尝试[设置虚拟环境并对](https://web3py.readthedocs.io/en/stable/troubleshooting.html)web3.py 安装进行故障排除。
+
+如果一切顺利，Web3.py 将安装在您的系统中。
+
+现在，让我们创建一个 Python 文件并将其命名为 [address.py](http://address.py)，将以下代码复制并粘贴到该文件中：
+
+```plaintext
+from eth_account import Account
+import secrets
+priv = secrets.token_hex(32)
+private_key = "0x" + priv
+print ("SAVE BUT DO NOT SHARE THIS:", private_key)
+acct = Account.from_key(private_key)
+print("Address:", acct.address)
+```
+
+上面代码的解释
+
+第一行：从Web3.py的eth\_account模块导入Account
+
+第 2 行：导入 Python 的 secrets 模块，这将帮助我们生成一个随机的十六进制字符串。
+
+第 3 行：生成一个 32 字节/64 个字符的随机十六进制字符串并将其存储在 priv 变量中
+
+第 4 行：将 0x 前缀附加到我们存储在 priv 中的 64 字符十六进制字符串，并将新字符串存储在变量 private \_ key 中。
+
+第 5 行：打印带有警告的私钥。
+
+第 6 行：使用私钥创建一个新帐户并将其存储在变量 acct 中。
+
+第 7 行：使用字符串“Address:”打印存储在 acct 变量中的帐户地址
+
+现在，让我们运行我们的 Python 程序。
+
+```plaintext
+$ python address.py
+```
+
+如果您正确地按照说明进行操作，它必须给出类似这样的输出。第一行是私钥，第二行是以太坊地址。
+
+![](data:image/png;base64,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 align="left")
+
+## [**结论**](https://www.quicknode.com/guides/ethereum-development/wallets/how-to-generate-a-new-ethereum-address-in-python/#conclusion)
+
+现在有了你自己的以太坊地址（+私钥），你就可以发送交易并与智能合约进行交互，更多信息请参考[Web3.py的官方文档。](https://web3py.readthedocs.io/en/stable/)
