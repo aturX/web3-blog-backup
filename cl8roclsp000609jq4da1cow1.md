@@ -25,7 +25,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681366555063/0b9ead1
 
 无论你是初学者还是专业人士，我们都欢迎你的加入！
 
-### 现在就加入「链求君官方群」，开启你的区块链之旅！
+# 加入「[链求君官方群](https://t.me/lianqiujun)」，开启你的区块链之旅！
 
 ---
 
