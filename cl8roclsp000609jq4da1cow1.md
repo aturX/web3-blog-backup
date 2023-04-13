@@ -11,7 +11,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681366555063/0b9ead1
 
 我是**链求君**，一名智能合约工程师，也是一个热爱分享的Youtuber和Web3玩家。在我这里，你可以了解到最新的区块链技术，探讨加密货币投资，还可以参与到有趣的Web3游戏中。
 
-如果你想获取更多的资讯和最新动态，欢迎关注我的「**公众号」**和「**Youtube频道」**。
+如果你想获取更多的资讯和最新动态，欢迎关注我的「\*\*公众号」\*\*和「**Youtube频道」**。
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1681367142146/8f019d33-a6f7-4305-bb6e-3e61ac81ef57.png align="center")
 
@@ -21,7 +21,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681366555063/0b9ead1
 
 在这里，我为大家提供「**付费内容」、「付费课程」**，包括最新的市场分析、独家项目资讯和深度技术解读等等。
 
-## [加入会员群](https://t.me/AturX)(联系我) | [付费教学课程](https://app.holly.ink/%e7%a9%ba%e6%8a%95%e8%af%be%e7%a8%8b/)
+## [加入会员群](https://t.me/AturX)(联系我) | [付费教学课程](https://app.holly.ink/user/vip/)
 
 无论你是初学者还是专业人士，我们都欢迎你的加入！
 
