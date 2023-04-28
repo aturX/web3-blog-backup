@@ -39,7 +39,7 @@ BRC-20 相当于以太坊上面的 ERC-20， 任何人可以在 BTC 原生链�
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682683797063/8ac0b940-4049-4684-99a2-5a5fa4700962.png align="center")
 
-以上是开始铸造的过程， 到这里我们打断一下，我们需要准备好付款钱包，方便支付手续费， 同时领取到铸造的代币。  
+以上是开始铸造的过程， 到这里我们打断一下，我们需要准备好付款钱包，方便支付手续费， 同时领取到铸造的代币。
 
 ## BTC地址生成
 
@@ -51,8 +51,8 @@ BRC-20 相当于以太坊上面的 ERC-20， 任何人可以在 BTC 原生链�
 
 ## 充值或跨链支付
 
-完成上面钱包创建和BTC地址获得之后， 我们继续部署Token时到了支付环节，可以选择的支付方式推荐的有两种：  
-  
+完成上面钱包创建和BTC地址获得之后， 我们继续部署Token时到了支付环节，可以选择的支付方式推荐的有两种：
+
 1\. 其他链资金 -&gt; UniSet BTC -&gt; 付款BTC手续费  
 主要通过: [https://cryptogas.shop/?ref=39251416](https://cryptogas.shop/?ref=39251416) (找到比特币网络购买BTC)
 
@@ -70,9 +70,8 @@ BRC-20 相当于以太坊上面的 ERC-20， 任何人可以在 BTC 原生链�
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682685778384/4dcdd168-e5bb-4bb9-a3ce-9ae89eb288e9.png align="center")
 
-  
-这纯粹是一个例子，我没有对[$LEEL](https://unisat.io/brc20/LEEL)做任何事情。 你可以继续开始你自己的看看铭文！你可能想要部署一个代币，这花费不到2美元！然后你就得到了这个！！  
-  
-  
+这纯粹是一个例子，我没有对[$LEEL](https://unisat.io/brc20/LEEL)做任何事情。 你可以继续开始你自己的看看铭文！你可能想要部署一个代币，这花费不到2美元！然后你就得到了这个！！
 
 ## 更多关注
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1681500529849/28c468d1-f894-4dff-94de-da68466c1f3e.png?auto=compress,format&format=webp align="left")
