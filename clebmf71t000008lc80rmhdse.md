@@ -13,8 +13,6 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676820853612/4b4a0e9
 
 目前有一种方式，就是散户玩家可以通过办理一张欧洲万事达卡，来实现安全出金USDT。
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676824841806/adfd3c89-597f-4742-bfec-e9f3a1644c40.png align="center")
-
 **出金流程：**
 
 把USDT从钱包地址发送到万事达卡的链上地址，然后去附近找一台ATM机，直接输入金额取现金。
@@ -132,7 +130,7 @@ UC万事达卡的开户开卡是比较简单的，存进去资产，然后可以
 
 # 办理渠道
 
-联系 [链求君](https://t.me/AturX) 或 [CCDAO团队](https://t.me/AturX), 说明来意.
+联系 [客服](https://t.me/AturX) 说明来意.
 
 **请备注来意, 添加微信 ⬇️**
 
