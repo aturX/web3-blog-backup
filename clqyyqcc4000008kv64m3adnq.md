@@ -21,7 +21,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • 代币[$SGEM](https://twitter.com/search?q=%24SGEM&src=cashtag_click)即将推出 🪂 👀
 
-[https://twitter.com/i/status/1715750214861197786](https://twitter.com/i/status/1715750214861197786)
+[https://x.com/Seraph\_global/status/1715750214861197786?s=20](https://x.com/Seraph_global/status/1715750214861197786?s=20)
 
 2/ [@FarcanaOfficial](https://twitter.com/FarcanaOfficial)
 
@@ -37,7 +37,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • [$FAR](https://twitter.com/search?q=%24FAR&src=cashtag_click)代币发行 💎 👀
 
-[https://twitter.com/i/status/1742538879138439352](https://twitter.com/i/status/1742538879138439352)
+[https://x.com/FarcanaOfficial/status/1722283049726116341?s=20](https://x.com/FarcanaOfficial/status/1722283049726116341?s=20)
 
 3/ [@PlayMightyHero](https://twitter.com/PlayMightyHero)
 
@@ -53,7 +53,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • 传闻代币即将推出 🪂 👀
 
-[https://twitter.com/i/status/1742538882816905519](https://twitter.com/i/status/1742538882816905519)
+[https://x.com/PlayMightyHero/status/1712664860813881435?s=20](https://x.com/PlayMightyHero/status/1712664860813881435?s=20)
 
 4/ [@The\_Beacon\_GG](https://twitter.com/The_Beacon_GG)
 
@@ -67,7 +67,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • 即将推出移动版
 
-地下城之旅： [https://twitter.com/i/status/1742538886637887981](https://twitter.com/i/status/1742538886637887981)
+地下城之旅： [https://twitter.com/karelvuong/status/1736914776511406345](https://twitter.com/karelvuong/status/1736914776511406345)
 
 5/ [@TalesofElleria](https://twitter.com/TalesofElleria)
 
@@ -83,7 +83,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • 通货紧缩代币[$ELM](https://twitter.com/search?q=%24ELM&src=cashtag_click) 💎 👀
 
-[https://twitter.com/i/status/1742538890173649282](https://twitter.com/i/status/1742538890173649282)
+[https://twitter.com/TalesofElleria/status/1734241735008764212](https://twitter.com/TalesofElleria/status/1734241735008764212)
 
 6/ [@PirateNation](https://twitter.com/PirateNation)
 
@@ -111,7 +111,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • [$NRN](https://twitter.com/search?q=%24NRN&src=cashtag_click)代币即将推出 🪂 👀
 
-[https://twitter.com/i/status/1742538897484357676](https://twitter.com/i/status/1742538897484357676)
+[https://twitter.com/aiarena\_/status/1590356854030245889](https://twitter.com/aiarena_/status/1590356854030245889)
 
 8/ [@kurorobeast](https://twitter.com/kurorobeast)
 
@@ -139,7 +139,7 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • 资产： [$ZTX](https://twitter.com/search?q=%24ZTX&src=cashtag_click)代币和 Genesis Homes 💎 👀
 
-[https://x.com/ZTXofficial/status/1713540730063351974?s=20](https://x.com/ZTXofficial/status/1713540730063351974?s=20)
+[https://twitter.com/ZTXofficial/status/1713540730063351974?s=20](https://twitter.com/ZTXofficial/status/1713540730063351974?s=20)
 
 10/ @capncompany
 
@@ -153,4 +153,4 @@ cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704354050536/af65b0d
 
 • $KAP 代币发行 💎 👀
 
-[https://x.com/capncompany/status/1704843667238748297?s=20](https://x.com/capncompany/status/1704843667238748297?s=20)
+[https://twitter.com/capncompany/status/1704843667238748297?s=20](https://twitter.com/capncompany/status/1704843667238748297?s=20)
